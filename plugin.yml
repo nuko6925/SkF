@@ -1,0 +1,5 @@
+name: SkF
+author: p_X1_a
+version: 1.0
+main: net.sia.addon.Main
+depend: [Skript]
